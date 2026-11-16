@@ -1,0 +1,31 @@
+{
+  "name": "dsh-agent-memory",
+  "version": "1.0.0",
+  "description": "Per-agent isolated memory for DeepSeek Harness: every agent gets its own mnemon store, with bulk bootstrap and scoped recall.",
+  "type": "module",
+  "main": "./index.js",
+  "exports": {
+    ".": "./index.js",
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "README.en.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "dsh",
+    "deepseek-harness",
+    "plugin",
+    "memory",
+    "multi-agent",
+    "mnemon",
+    "isolation"
+  ],
+  "license": "MIT",
+  "author": "atianxu",
+  "engines": {
+    "node": ">=20"
+  }
+}
