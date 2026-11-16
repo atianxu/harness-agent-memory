@@ -154,4 +154,4 @@ LICENSE        MIT
 
 ## License
 
-MIT — see [LICENSE](LICENSE). Author: D2W.
+MIT — see [LICENSE](LICENSE). Author: DR.WAN.
